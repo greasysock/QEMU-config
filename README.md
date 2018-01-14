@@ -3,7 +3,7 @@ A collection of scripts I use to setup passthrough and networking for QEMU. Inst
 
 # Storage
 
-I generally store images at `/opt/qemu_machines/machine/machine.img` and .isos at `/opt/qemu_machines/isos/*`, this can be changed however.
+I generally store images at `/opt/qemu_machines/machine/machine.img` and .isos at `/opt/qemu_machines/isos/*`, this can be changed by editing the start.sh files.
 
 # Passthrough:
 
